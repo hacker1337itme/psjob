@@ -1,4 +1,5 @@
-```# M2 SSI - TP1 - Active Directory Authentication and Authorization Strategy
+```ps
+# M2 SSI - TP1 - Active Directory Authentication and Authorization Strategy
 # Complete PowerShell Script for all exercises
 
 # Import required modules
